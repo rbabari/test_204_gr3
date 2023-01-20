@@ -1,1 +1,1 @@
-bla bla bla 
+print("Les saphris sont bleus aussi ... ")
