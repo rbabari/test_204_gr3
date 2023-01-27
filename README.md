@@ -24,6 +24,8 @@ Plan de travail en équipe
 -	Diagramme de Gantt : Excel, gantt Project 
 -	Analyse : 
 -	UML : diagramme de classes 
+-	Vues
+<img src="image.jpg">
 
 (vous pouvez garder une planification similaire pour la présentation)
 
